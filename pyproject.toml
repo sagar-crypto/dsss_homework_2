@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dsss_homework_2_sagar"
+version = "0.0.1"
+authors = [
+  { name="Sagar Sikdar", email="sagarsikdar2812@gmail.com" },
+]
+description = "A python code for maths quiz"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com:sagar-crypto/dsss_homework_2.git"
